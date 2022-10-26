@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Mehmet Yılmaz
-- 👀 I’m interested in database designining CRUD operations with .Net Core 6 and responsive web UI development.
+- 👋 Hi, I’m Mehmet Yılmaz.
+- 👀 I’m interested in Fullstack Web Development.
 - 🌱 I’m currently learning front-end web development with Angular CLI.
 
 <!---
